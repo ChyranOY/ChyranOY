@@ -40,16 +40,16 @@ int main() {
 ### 📊 Vital Statistics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ChyranOY?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&languages.sections=most-used&config.timezone=Asia%2FShanghai" alt="Metrics" />
+  <!-- 尝试方案 A: 使用 github-readme-streak-stats (通常加载很快) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChyranOY&theme=highcontrast&hide_border=true" alt="streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChyranOY&theme=xcode&hide_border=true&area=true" width="100%" />
+  <!-- 尝试方案 B: 这是一个纯静态生成的 SVG 服务，极少挂 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ChyranOY&theme=git_dark&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
-
-<br/>
 
 ### 🔗 Link Layer
 
