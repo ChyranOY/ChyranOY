@@ -46,11 +46,9 @@ int main() {
 🔗 Link Layer
 <div align="center">
 
-    <img src="https://img.shields.io/badge/Email-Connect-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  
+Email
+GitHub
 
-    <img src="https://img.shields.io/badge/GitHub-ChyranOY-181717?style=for-the-badge&logo=github&logoColor=white" />
-  
 </div>
 
 
