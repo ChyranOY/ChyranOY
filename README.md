@@ -40,8 +40,7 @@ int main() {
 ### 📊 Vital Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChyranOY&show_icons=true&theme=gotham&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChyranOY&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://metrics.lecoq.io/ChyranOY?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&languages.sections=most-used&config.timezone=Asia%2FShanghai" alt="Metrics" />
 </div>
 
 <br/>
