@@ -18,10 +18,9 @@ public:
     std::string location = "Shanghai, China";
 
     struct Skills {
-        std::vector<std::string> languages = {"Python", "C++", "CUDA"};
-        std::vector<std::string> ai_stack  = {"PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"};
-        std::vector<std::string> tools     = {"Docker", "Linux", "Git", "LaTeX"};
-        std::vector<std::string> interest  = {"Computer Vision", "Deep Learning", "EduTech"};
+        std::vector<std::string> languages = {"Python", "C++", "Rust"};
+        std::vector<std::string> ai_stack  = {"PyTorch", "JaX"};
+        std::vector<std::string> interest  = {"Generative Modeling", "Quant in Polymarket"};
     } skills;
 
     void say_hello() {
@@ -57,7 +56,7 @@ int main() {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Connect-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Connect-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhiyuanouyang@sii.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-ChyranOY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChyranOY)
 
 </div>
