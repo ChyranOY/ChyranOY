@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <i>"Dedicate to innovation in the field of AI."</i>
+  <i>"Dedicate to innovation and application in the field of AI."</i>
 </div>
 <br/>
 
