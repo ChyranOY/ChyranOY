@@ -40,16 +40,16 @@ int main() {
 ### 📊 Vital Statistics
 
 <div align="center">
-  <!-- 尝试方案 A: 使用 github-readme-streak-stats (通常加载很快) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChyranOY&theme=highcontrast&hide_border=true" alt="streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 尝试方案 B: 这是一个纯静态生成的 SVG 服务，极少挂 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ChyranOY&theme=git_dark&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChyranOY&theme=xcode&hide_border=true&area=true" width="100%" />
 </div>
+
+<br/>
 
 ### 🔗 Link Layer
 
