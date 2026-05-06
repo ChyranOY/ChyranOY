@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+ChyranOY+(SII-Sakamoto);AI+Researcher+@+SII;Compiling+My+Life..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+ChiryanOY+(SII-Sakamoto);AI+Researcher+@+SII;Compiling+My+Life..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 class AI_Researcher {
 public:
-    std::string name = "ChyranOY";
+    std::string name = "ChiryanOY";
     std::string role = "Researcher @ Shanghai Innovation Institute";
     std::string location = "Shanghai, China";
 
@@ -40,13 +40,13 @@ int main() {
 ### 📊 Vital Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChyranOY&theme=highcontrast&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiryanOY&theme=highcontrast&hide_border=true" alt="streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChyranOY&theme=xcode&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiryanOY&theme=xcode&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@ int main() {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Connect-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhiyuanouyang@sii.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-ChyranOY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChyranOY)
+[![GitHub](https://img.shields.io/badge/GitHub-ChiryanOY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChiryanOY)
 
 </div>
 
@@ -64,5 +64,5 @@ int main() {
 <div align="center">
   <code>// Life is a stochastic process; optimize for the long tail.</code>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ChyranOY&style=flat-square&color=blueviolet" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=ChiryanOY&style=flat-square&color=blueviolet" alt="visitor count" />
 </div>
