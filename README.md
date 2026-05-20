@@ -18,7 +18,7 @@ public:
     std::string location = "Shanghai, China";
 
     struct Skills {
-        std::vector<std::string> languages = {"Python", "C++", "Rust"};
+        std::vector<std::string> languages = {"Python", "Type Script", "C++", "Rust"};
         std::vector<std::string> ai_stack  = {"PyTorch", "JaX"};
         std::vector<std::string> interest  = {"Generative Modeling", "Quant in Polymarket"};
     } skills;
