@@ -82,12 +82,7 @@ int main() {
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiryanOY&hide_border=true&background=00000000&ring=2E91E5&fire=2E91E5&currStreakLabel=2E91E5" width="48%" />
-<img src="https://quotes-github-readme.vercel.app/api?quote=%E7%94%9F%E5%91%BD%E6%98%AF%E4%B8%80%E5%9C%BA%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%8C%E4%B8%BA%E9%95%BF%E5%B0%BE%E8%80%8C%E4%BC%98%E5%8C%96%E3%80%82&type=horizontal&theme=radical&hide_border=true&bg_color=00000000" width="48%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiryanOY&bg_color=00000000&color=2E91E5&line=2E91E5&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiryanOY&hide_border=true&background=00000000&ring=2E91E5&fire=2E91E5&currStreakLabel=2E91E5" />
 
 </div>
 
